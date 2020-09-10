@@ -1,3 +1,3 @@
 # 3D-Terrain-Editor
 
-## Please read the Report.pdf file in the root directory.
+## Please read the report/Report.pdf file.
